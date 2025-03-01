@@ -9,12 +9,12 @@
 
 ## 项目结构
 
-├── 人工智能是否能够取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md 
-├── 人工智能是否能够取代人类理财顾问(正方-o3-mini-high-反方-deepseek-r1).md
-├── 智能投顾是否会取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md 
-├── 智能投顾是否会取代人类理财顾问(正方-o3-mini-high-反方-deepseek-r1).md
-├── README.md
-└── LICENSE
+    ├── 人工智能是否能够取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md 
+    ├── 人工智能是否能够取代人类理财顾问(正方-o3-mini-high-反方-deepseek-r1).md
+    ├── 智能投顾是否会取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md 
+    ├── 智能投顾是否会取代人类理财顾问(正方-o3-mini-high-反方-deepseek-r1).md
+    ├── README.md
+    └── LICENSE
 
 ## 辩论规则
 
