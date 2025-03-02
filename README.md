@@ -72,7 +72,7 @@
 </div>
 
 ## 许可证
-AIDebate是一项仅用于非商业使用的研究预览，受OpenAI和DeepSeek生成数据的使用条款约束。如果您发现任何潜在的风险行为，请与我们联系。该代码发布在Apache License 2.0下。
+AIDebate是一项仅用于非商业使用的研究预览，受OpenAI和DeepSeek生成数据的使用条款约束。如果您发现任何潜在的风险行为，请与我们联系。该代码发布在GNU General Public License v3.0下。
 
 ## 感谢我们的贡献者 ：
 <a href="https://github.com/TongjiFinLab/AIDebate/graphs/contributors">
