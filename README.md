@@ -40,7 +40,7 @@
 以金融决策场景为例，我们围绕 “智能投顾是否会取代人类理财顾问？” 这一核心议题，呈现了 Deepseek-R1 和 OpenAI o3-mini-high 两个典型大模型的辩论结果。
 ### 辩论赛题
 #### 智能投顾是否会取代人类理财顾问？
-- 正方（Deepseek-R1） VS  反方 OpenAI o3-mini-high  [[阅读文字版](results/智能投顾是否会取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md )][[观看视频]()]
+- 正方（Deepseek-R1） VS  反方 OpenAI o3-mini-high  [[阅读文字版](results/智能投顾是否会取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md)][[观看视频](videos/example.mp4)]
 
 ### 视频展示
 
@@ -82,8 +82,8 @@
 - 正方（OpenAI o3-mini-high） VS 反方 （OpenAI o3-mini-high） [[文字版阅读](results/tba.md)]
 
 #### 2. 人工智能能否取代人类投资经理？
-- 正方（Deepseek-R1） VS 反方 （OpenAI o3-mini-high） [[文字版阅读](results/tba.md)]
-- 正方（OpenAI o3-mini-high） VS 反方 （Deepseek-R1） [[文字版阅读](results/tba.md)]
+- 正方（Deepseek-R1） VS 反方 （OpenAI o3-mini-high） [[文字版阅读](results/人工智能是否能够取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md)]
+- 正方（OpenAI o3-mini-high） VS 反方 （Deepseek-R1） [[文字版阅读](results/人工智能是否能够取代人类理财顾问(正方-o3-mini-high-反方-deepseek-r1).md)]
 - 正方（Deepseek-R1） VS 反方 （Deepseek-R1） [[文字版阅读](results/tba.md)]
 - 正方（OpenAI o3-mini-high） VS 反方 （OpenAI o3-mini-high） [[文字版阅读](results/tba.md)]
 
