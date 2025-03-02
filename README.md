@@ -10,6 +10,7 @@
     ├── src/ # 大模型辩论赛的组织代码
     ├── log/ # 大模型辩论赛的完整日志记录
     ├── results/ # 大模型辩论赛的结果展示
+    ├── research/ # 大模型辩论赛相关分析研究  
     ├── README.md
     └── LICENSE
 
@@ -74,21 +75,25 @@
 | SimpleQA   | **30.1**    | 13.8                | 
 
 
-## 更多辩论赛内容
-#### 1. 智能投顾是否会取代人类理财顾问？
+## 辩论场次与内容
+#### 第1场. 智能投顾是否会取代人类理财顾问？
 - 正方（Deepseek-R1） VS 反方 （OpenAI o3-mini-high） [[文字版阅读](results/智能投顾是否会取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md)]
 - 正方（OpenAI o3-mini-high） VS 反方 （Deepseek-R1） [[文字版阅读](results/智能投顾是否会取代人类理财顾问(正方-o3-mini-high-反方-deepseek-r1).md)]
 - 正方（Deepseek-R1） VS 反方 （Deepseek-R1） [[文字版阅读](results/tba.md)]
 - 正方（OpenAI o3-mini-high） VS 反方 （OpenAI o3-mini-high） [[文字版阅读](results/tba.md)]
 
-#### 2. 人工智能能否取代人类投资经理？
+#### 第2场. 人工智能能否取代人类投资经理？
 - 正方（Deepseek-R1） VS 反方 （OpenAI o3-mini-high） [[文字版阅读](results/人工智能是否能够取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md)]
 - 正方（OpenAI o3-mini-high） VS 反方 （Deepseek-R1） [[文字版阅读](results/人工智能是否能够取代人类理财顾问(正方-o3-mini-high-反方-deepseek-r1).md)]
 - 正方（Deepseek-R1） VS 反方 （Deepseek-R1） [[文字版阅读](results/tba.md)]
 - 正方（OpenAI o3-mini-high） VS 反方 （OpenAI o3-mini-high） [[文字版阅读](results/tba.md)]
 
+## 辩论赛内容分析、点评观点与研究
+#### 第1场辩论赛中事实性依据分析
+- 辩论赛题：[[智能投顾是否会取代人类理财顾问 正方（Deepseek-R1） VS 反方 （OpenAI o3-mini-high）](results/智能投顾是否会取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md)]
+- [[正反方事实性依据与模型幻觉分析](research/事实性依据分析智能投顾是否会取代人类理财顾问(正方-deepseek-r1-反方-o3-mini-high).md)]
 
-## 许可证
+## License
 AIDebate是一项仅用于非商业使用的研究预览，受OpenAI和DeepSeek生成数据的使用条款约束。如果您发现任何潜在的风险行为，请与我们联系。该代码发布在Apache License 2.0下。
 
 ## 感谢我们的贡献者 ：
